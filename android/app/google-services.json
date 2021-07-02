@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "260809390110",
+    "firebase_url": "https://jeemainsandadv-ae7cd-default-rtdb.firebaseio.com",
+    "project_id": "jeemainsandadv-ae7cd",
+    "storage_bucket": "jeemainsandadv-ae7cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260809390110:android:5eba03fc96e524f5f4960f",
+        "android_client_info": {
+          "package_name": "com.dts.jeemainsadv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260809390110-pa6ag5jolrekl9loumo1tmenatstpv69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChdWVu9Yj0d__Z9rlN9Z3KOkGuv7HXaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260809390110-pa6ag5jolrekl9loumo1tmenatstpv69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6749113501960121~3907435088"
+    }
+  ],
+  "configuration_version": "1"
+}
